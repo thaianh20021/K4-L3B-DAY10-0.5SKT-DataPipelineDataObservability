@@ -6,6 +6,7 @@
 | ------------------ | -------------------------- |
 | Họ và tên       | Nguyễn Khánh Duy          |
 | MSSV               | 2A202602403               |
+| Email             | khanhduy.nguyen@vinuni.edu.vn / cv.duynk@gmail.com |
 | Khóa/Lớp         | K4 - Lớp B (Ca Sáng)      |
 | Tên nhóm         | 0.5SKT |
 | Vai trò chính    | Data Observability, Freshness SLA & Benchmark Evaluation |
