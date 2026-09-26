@@ -7,9 +7,9 @@
 | Họ và tên       | Nguyễn Khánh Duy          |
 | MSSV               | 2A202602403               |
 | Khóa/Lớp         | K4 - Lớp B (Ca Sáng)      |
-| Tên nhóm         | Team 03 - DataObservability |
+| Tên nhóm         | 0.5SKT |
 | Vai trò chính    | Data Observability, Freshness SLA & Benchmark Evaluation |
-| Repository         | K4-L3B-DAY10-Team03-DataPipelineDataObservability |
+| Repository         | K4-L3B-DAY10-0.5SKT-DataPipelineDataObservability |
 | Ngày hoàn thành | 2026-09-26               |
 
 ---

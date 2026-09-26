@@ -1,8 +1,8 @@
 # Danh Sách Thành Viên & Báo Cáo Phân Công Nhóm
 
-- **Tên Nhóm:** `Team 03 - DataObservability`
+- **Tên Nhóm:** `0.5SKT`
 - **Mã Nhóm / Lớp:** `K4-L3B-DAY10`
-- **Tên Repository Nộp Bài:** `K4-L3B-DAY10-Team03-DataPipelineDataObservability`
+- **Tên Repository Nộp Bài:** `K4-L3B-DAY10-0.5SKT-DataPipelineDataObservability`
 - **Ngày Hoàn Thành:** `2026-09-26`
 
 ---

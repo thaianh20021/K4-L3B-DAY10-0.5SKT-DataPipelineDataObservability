@@ -5,8 +5,8 @@
 | Thông tin         | Nội dung                  |
 | ------------------ | -------------------------- |
 | Khóa/Lớp         | K4 - Lớp B (Ca Sáng)      |
-| Tên nhóm         | Team 03 - DataObservability |
-| Repository         | K4-L3B-DAY10-Team03-DataPipelineDataObservability |
+| Tên nhóm         | 0.5SKT                    |
+| Repository         | K4-L3B-DAY10-0.5SKT-DataPipelineDataObservability |
 | Ngày hoàn thành | 2026-09-26               |
 
 ### Thành viên và phân công
@@ -351,7 +351,7 @@ Thay vì sửa cục bộ hoặc "vá tạm" trên tập dữ liệu đã bị l
 
 ## 13. Checklist trước khi nộp
 
-- [x] Thông tin nhóm và repository chính xác (`K4-L3B-DAY10-Team03-DataPipelineDataObservability`).
+- [x] Thông tin nhóm và repository chính xác (`K4-L3B-DAY10-0.5SKT-DataPipelineDataObservability`).
 - [x] Phân công khớp với module, artifact và kết quả thực tế trong `docs/TEAM.md`.
 - [x] Lệnh tái hiện đã được chạy lại thành công trên phiên bản dùng để nộp (Exit code 0).
 - [x] Baseline, corrupted và repaired dùng chung một evaluation test set (`data/eval/test_set.json`).

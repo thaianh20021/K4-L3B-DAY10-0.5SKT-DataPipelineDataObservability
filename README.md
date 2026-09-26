@@ -1,6 +1,6 @@
 # K4-L3B-Day10 — Data Pipeline & Data Observability for RAG
 
-> **Repository:** `K4-L3B-DAY10-Team03-DataPipelineDataObservability`  
+> **Repository:** `K4-L3B-DAY10-0.5SKT-DataPipelineDataObservability`  
 > **Hình thức:** Teamwork (Nhóm 4 thành viên) | **Lớp:** K4 - Lớp B (Ca Sáng)  
 > **Ngày hoàn thành:** 26/09/2026 | **Hạn nộp LMS:** 23:59:59 cùng ngày  
 
@@ -70,7 +70,7 @@ Mở file `report/observability_dashboard.html` trên trình duyệt để theo 
 ## 🏗️ Cấu Trúc Dự Án (Project Structure)
 
 ```text
-K4-L3B-DAY10-Team03-DataPipelineDataObservability/
+K4-L3B-DAY10-0.5SKT-DataPipelineDataObservability/
 ├── .github/
 │   └── workflows/ci.yml       ← GitHub Actions CI pipeline (Bonus B3)
 ├── data/
